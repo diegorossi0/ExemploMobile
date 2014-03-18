@@ -1,0 +1,12 @@
+<widget id="com.example.exemploMobile" version="0.0.1">
+	<name>Exemplo Mobile</name>
+	<description>
+		Essa é uma aplicação de teste para mostrar como funciona o PhoneGap.
+	</description>
+	<author email="diego.rossi@yahoo.com.br" href="http://phonegap.com">
+		Criador do projeto
+	</author>
+	<content src="index.html" />
+	<access origin="*" />
+	<preference name="phonegap-version" value="3.1.0" />
+</widget>
